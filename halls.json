@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Hall A",
+    "capacity": 150,
+    "facilities": [
+      "projector",
+      "mic",
+      "ac"
+    ],
+    "bookings": [
+      {
+        "start": "14:00",
+        "end": "16:00"
+      }
+    ],
+    "distance_m": 200
+  },
+  {
+    "name": "Hall B",
+    "capacity": 130,
+    "facilities": [
+      "projector",
+      "ac"
+    ],
+    "bookings": []
+  },
+  {
+    "name": "Hall C",
+    "capacity": 200,
+    "facilities": [
+      "projector",
+      "mic",
+      "ac"
+    ],
+    "bookings": [
+      {
+        "start": "10:00",
+        "end": "12:00"
+      }
+    ],
+    "distance_m": 350
+  }
+]
